@@ -1,0 +1,43 @@
+body,html{
+          background-color: azure;
+          display: flex;
+          text-align: center;
+          align-content: center;
+          justify-content: center;
+          margin: 0;
+}
+ 
+.container{
+          background-color:darkgrey;
+          text-align: center;
+          align-items: center;
+          justify-content: center;
+          border-radius: 6px;
+          padding: 12px;
+          margin-top: 135px;
+}
+.buttons{
+          height: 55px;
+          width: 75px;
+          margin: 2px;
+          padding: 12px;
+          font-size: 18px;
+          
+}
+input[type="text"]{
+          height: 27px;
+          width: 213px;
+          margin: 2px;
+          padding: 12px;
+          font-size: 18px;
+}
+#no2{
+          padding-top: 5px;
+}
+#equal{
+          background-color:rgba(105, 105, 105, 0.397); 
+          border: none;
+}
+#back{
+          padding-top: 7px;
+}
